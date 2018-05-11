@@ -29,5 +29,7 @@ Repositorio con materiales de la asignatura SIGE (Sistemas Inteligentes para la 
 
 ## Contacto
 Dr. Juan Gómez Romero [[web]](http://decsai.ugr.es/~jgomez)
+
 Departamento de Ciencias de la Computación e Inteligencia Artificial
+
 Universidad de Granada
